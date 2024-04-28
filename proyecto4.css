@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+  }
+  
+  .layaout {
+    width: 700px;
+    margin: 100px auto;
+    border: solid skyblue;
+    border-radius: 10px;
+  }
+  .layaout__main {
+    width: 600px;
+    margin: 20px auto;
+    text-overflow: ellipsis;
+    border: dashed rgb(255, 255, 255);
+  }
+  
+  .main__header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 0 10px 0 10px;
+      color: skyblue;
+  }
+  
+  .header__icon{
+      font-size: 35px;
+  }
+  
+  .header__two{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 0 10px 0 10px;
+  }
+  
+  .seacrh__input{
+      width: 400px;
+      height: 40px;
+      border-radius: 10px;
+      text-align: center;
+  }
+  
+  .control2__idioma{
+      width: 130px;
+      height: 40px;
+      border-radius: 10px;
+      text-align: center;
+  }
+  
+  .header__three{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 0 10px 0 10px;
+  }
+  
+  .title__ordenador{
+      font-weight: 900;
+  }
+  
+  .buttom__icon{
+      width: 60px;
+      height: 60px;
+      border-radius: 100%;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.829);
+  }
+  
+  .traduction__list{
+      text-align: justify;
+      overflow: hidden;
+      padding: 25px;
+  }
+  
+  .list__title{
+      text-align: center;
+  }
+  
+  .traduction__list span{
+      color: skyblue;
+  }
+  
+  .traduction__sinonimo{
+      margin-left: 10px;
+      color: skyblue;
+  }
+  
+  .traduction__sinonimo span{
+      color: gray;
+  }
+  
+  .footer__body{
+      text-align: center;
+      padding: 15px;
+  }
