@@ -1,5 +1,6 @@
 # Desing-of-Traductor
-#3 CSS crear  un diseño de traductor de idiomas, similar al readme.
+#4 CSS Crea una web con un diseño lo más parecido posible al siguiente.
+Así debería quedar:
 
 ![image](https://github.com/JhojanBinary/Desing-of-Traductor/assets/102551448/54a15967-8c58-4772-ae42-d36ade192fa0)
 
